@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school\\Jaar 1\\programeren 1\\Jurian vierbergen - Text Adventure\\project les 1\\Text Adventure.csproj",
+      "projectUniqueName": "D:\\school\\Jaar 1\\programeren 1\\Text Adventure\\project les 1\\Text Adventure.csproj",
       "projectName": "Text Adventure",
-      "projectPath": "D:\\school\\Jaar 1\\programeren 1\\Jurian vierbergen - Text Adventure\\project les 1\\Text Adventure.csproj",
+      "projectPath": "D:\\school\\Jaar 1\\programeren 1\\Text Adventure\\project les 1\\Text Adventure.csproj",
       "packagesPath": "C:\\Users\\Juria\\.nuget\\packages\\",
-      "outputPath": "D:\\school\\Jaar 1\\programeren 1\\Jurian vierbergen - Text Adventure\\project les 1\\obj\\",
+      "outputPath": "D:\\school\\Jaar 1\\programeren 1\\Text Adventure\\project les 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

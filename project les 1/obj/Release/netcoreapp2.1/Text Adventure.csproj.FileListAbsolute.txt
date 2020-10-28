@@ -1,0 +1,10 @@
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\bin\Release\netcoreapp2.1\Text Adventure.deps.json
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\bin\Release\netcoreapp2.1\Text Adventure.runtimeconfig.json
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\bin\Release\netcoreapp2.1\Text Adventure.runtimeconfig.dev.json
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\bin\Release\netcoreapp2.1\Text Adventure.dll
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\bin\Release\netcoreapp2.1\Text Adventure.pdb
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\obj\Release\netcoreapp2.1\Text Adventure.csprojAssemblyReference.cache
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\obj\Release\netcoreapp2.1\Text Adventure.AssemblyInfoInputs.cache
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\obj\Release\netcoreapp2.1\Text Adventure.AssemblyInfo.cs
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\obj\Release\netcoreapp2.1\Text Adventure.dll
+D:\school\Jaar 1\programeren 1\Text Adventure\project les 1\obj\Release\netcoreapp2.1\Text Adventure.pdb
