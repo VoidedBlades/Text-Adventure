@@ -1,0 +1,22 @@
+D:\school\programeren 1\project les 1\project les 1\bin\Debug\netcoreapp2.1\project les 1.deps.json
+D:\school\programeren 1\project les 1\project les 1\bin\Debug\netcoreapp2.1\project les 1.runtimeconfig.json
+D:\school\programeren 1\project les 1\project les 1\bin\Debug\netcoreapp2.1\project les 1.runtimeconfig.dev.json
+D:\school\programeren 1\project les 1\project les 1\bin\Debug\netcoreapp2.1\project les 1.dll
+D:\school\programeren 1\project les 1\project les 1\bin\Debug\netcoreapp2.1\project les 1.pdb
+D:\school\programeren 1\project les 1\project les 1\obj\Debug\netcoreapp2.1\project les 1.csprojAssemblyReference.cache
+D:\school\programeren 1\project les 1\project les 1\obj\Debug\netcoreapp2.1\project les 1.csproj.CoreCompileInputs.cache
+D:\school\programeren 1\project les 1\project les 1\obj\Debug\netcoreapp2.1\project les 1.AssemblyInfoInputs.cache
+D:\school\programeren 1\project les 1\project les 1\obj\Debug\netcoreapp2.1\project les 1.AssemblyInfo.cs
+D:\school\programeren 1\project les 1\project les 1\obj\Debug\netcoreapp2.1\project les 1.dll
+D:\school\programeren 1\project les 1\project les 1\obj\Debug\netcoreapp2.1\project les 1.pdb
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\project les 1.deps.json
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\project les 1.runtimeconfig.json
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\project les 1.runtimeconfig.dev.json
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\project les 1.dll
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\project les 1.pdb
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\project les 1.csprojAssemblyReference.cache
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\project les 1.csproj.CoreCompileInputs.cache
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\project les 1.AssemblyInfoInputs.cache
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\project les 1.AssemblyInfo.cs
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\project les 1.dll
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\project les 1.pdb

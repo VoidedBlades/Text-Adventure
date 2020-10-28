@@ -1,0 +1,21 @@
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.deps.json
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.runtimeconfig.json
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.runtimeconfig.dev.json
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.dll
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.pdb
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.csprojAssemblyReference.cache
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.csproj.CoreCompileInputs.cache
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.AssemblyInfoInputs.cache
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.AssemblyInfo.cs
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.dll
+D:\school\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.pdb
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.deps.json
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.runtimeconfig.json
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.runtimeconfig.dev.json
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.dll
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\bin\Debug\netcoreapp2.1\Text Adventure.pdb
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.csprojAssemblyReference.cache
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.AssemblyInfoInputs.cache
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.AssemblyInfo.cs
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.dll
+D:\school\Jaar 1\programeren 1\Jurian vierbergen - Text Adventure\project les 1\obj\Debug\netcoreapp2.1\Text Adventure.pdb
